@@ -1,0 +1,7 @@
+Tabela IP Básica para Sub-rede
+
+IP base: 192.168.1.0
+Máscara: 255.255.255.0
+Rede: 192.168.1.0
+Broadcast: 192.168.1.255
+Hosts válidos: 192.168.1.1 – 192.168.1.254

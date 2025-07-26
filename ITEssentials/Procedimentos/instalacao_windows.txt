@@ -1,0 +1,9 @@
+Procedimento Básico para Instalação do Windows
+
+1. Preparar mídia bootável (pendrive com Windows).
+2. Configurar BIOS para boot pelo pendrive.
+3. Iniciar instalação, selecionar idioma e teclado.
+4. Criar partições e formatar disco.
+5. Instalar sistema operacional.
+6. Configurar usuário e senha.
+7. Instalar drivers e atualizações.

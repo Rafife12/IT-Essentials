@@ -1,0 +1,8 @@
+Checklist Básico de Troubleshooting de Rede
+
+- Verificar cabo de rede conectado.
+- Verificar LED do cabo ou switch.
+- Executar 'ipconfig' para verificar IP.
+- Testar ping no gateway.
+- Verificar configurações de firewall.
+- Reiniciar adaptador de rede.
